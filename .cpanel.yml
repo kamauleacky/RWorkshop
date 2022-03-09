@@ -6,3 +6,4 @@ deployment:
 -   - /bin/cp program/index.html $DEPLOYPATH
     - /bin/cp registration/index.html $DEPLOYPATH
     - /bin/cp flyer/index.html $DEPLOYPATH
+-   - /bin/cp -R assets $DEPLOYPATH
